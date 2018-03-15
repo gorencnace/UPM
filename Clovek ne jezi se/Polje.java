@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 // razred ki implementira igralno plosco z vsemi
 // potrebnimi operacijami
 
